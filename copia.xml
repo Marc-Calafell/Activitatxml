@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<arbreGenealogic nom="Juan Carlos I">
+    <arbreGenealogic nom="Felipe">
+        <arbreGenealogic nom="Leonor"/>
+        <arbreGenealogic nom="Sofía"/>
+        <conjuge>Leticia</conjuge>
+    </arbreGenealogic>
+    <arbreGenealogic nom="Elena">
+        <arbreGenealogic nom="Froilán"/>
+        <arbreGenealogic nom="Victoria"/>
+        <conjuge>Jaime</conjuge>
+    </arbreGenealogic>
+    <arbreGenealogic nom="Cristina">
+        <arbreGenealogic nom="Juan"/>
+        <arbreGenealogic nom="Pablo"/>
+        <arbreGenealogic nom="Miguel"/>
+        <arbreGenealogic nom="Irene"/>
+        <conjuge>Iñaki</conjuge>
+    </arbreGenealogic>
+    <conjuge>Sofía</conjuge>
+</arbreGenealogic>
